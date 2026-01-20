@@ -1,7 +1,4 @@
 ## Task 2 – Sales Performance Analysis 📊
-
-## Internship: Data Analysis & Data Science with Python
-
 ---
 
 ## 📌 Overview
@@ -113,13 +110,5 @@ The goal is to clean the dataset, identify trends and patterns, visualize relati
 2. Open `Task_2_Sales_Performance_Analysis.ipynb`
 3. Run all cells sequentially
 4. Review outputs, visualizations, and insights
-
----
-
-## 👨‍🎓 Author
-**Name:** Arjun Chauhan  
-**Branch:** Computer Engineering  
-**Semester:** VIII  
-**Institute:** Government Engineering College, Dahod  
 
 ---
